@@ -42,5 +42,8 @@ Organizations generate large amounts of sales data but often lack meaningful ins
 - Subqueries
 
 ## 📊 Sample Output
+## 📊 Product Performance Report
 
-(Add your Customer Report or Product Report screenshot here.)
+This report analyzes product performance by summarizing key metrics such as total sales, total orders, quantity sold, customer reach, average order value, and product recency. It helps identify top-performing products and supports data-driven business decisions.
+
+![Product Performance Report](docs/product_performance_report.png)
